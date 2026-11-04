@@ -4,7 +4,7 @@
 
 MoodCut is a DSA4213 research project exploring whether character-specific emotional feedback helps generated videos convey an intended emotion while keeping dialogue natural and the story clear.
 
-[Watch the 12 videos](https://zhengads.github.io/MoodCut-dsa4213/) · [Download videos](https://github.com/zhengads/MoodCut-dsa4213/releases/tag/Videos_01-12) · [Script catalog](docs/studies/six-story-clear-emotions-20261024/README.md) · [Documentation](docs/README.md)
+[Download the presentation](https://github.com/zhengads/MoodCut-dsa4213/releases/download/Moodcut_presentation/Moodcut.presentation.mp4) · [Watch the 12 videos](https://zhengads.github.io/MoodCut-dsa4213/) · [Download videos](https://github.com/zhengads/MoodCut-dsa4213/releases/tag/Videos_01-12) · [Script catalog](docs/studies/six-story-clear-emotions-20261024/README.md) · [Documentation](docs/README.md)
 
 ## Comparison
 
