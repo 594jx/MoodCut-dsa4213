@@ -1,6 +1,6 @@
 # Current scripts: 01–12
 
-[Watch the twelve stories](https://zhengads.github.io/MoodCut-dsa4213/) · [Download all videos](https://github.com/zhengads/MoodCut-dsa4213/releases/download/Videos_01-12/MoodCut_01-12_All_Videos.zip) · [Verified file manifest](release-index.json)
+[Watch the twelve stories](https://594jx.github.io/MoodCut-dsa4213/) · [Download all videos](https://github.com/594jx/MoodCut-dsa4213/releases/download/Videos_01-12/MoodCut_01-12_All_Videos.zip) · [Verified file manifest](release-index.json)
 
 Twelve scenarios compare Baseline, Generic Review and MoodCut. The archive has 36 condition entries and 28 distinct video byte hashes, each approximately eight seconds long. Scenarios 07–12 use Gemini-generated shared initial dialogue. The source briefs below describe story requirements; the release does not include final dialogue transcripts or frozen script blocks.
 

@@ -1,6 +1,6 @@
 # MoodCut documentation
 
-[Project overview](../README.md) · [Watch the twelve stories](https://zhengads.github.io/MoodCut-dsa4213/) · [Script catalog](studies/six-story-clear-emotions-20261024/README.md)
+[Project overview](../README.md) · [Watch the twelve stories](https://594jx.github.io/MoodCut-dsa4213/) · [Script catalog](studies/six-story-clear-emotions-20261024/README.md)
 
 | Task | Guide |
 | --- | --- |
